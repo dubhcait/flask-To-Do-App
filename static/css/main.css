@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+   
+}
+
+
+table{border-collapse: collapse;
+   
+
+}
+.content {
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
+h1, h4{
+    text-align: center;
+}
+
+th, table, td {
+    border: 0.3px solid #000000;
+    padding: 10px;
+} 
+
+form {
+ padding: 1em;
+   
+}
